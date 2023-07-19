@@ -1,0 +1,45 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+
+README-template.md
+preview.jpg
+src/assets/fonts/SpaceGrotesk-VariableFont_wght.ttf
+src/assets/fonts/static/SpaceGrotesk-Bold.ttf
+src/assets/fonts/static/SpaceGrotesk-Medium.ttf
+src/assets/images/favicon-32x32.png
+src/assets/images/icon-frontend-mentor.svg
+src/assets/images/icon-github.svg
+src/assets/images/icon-linkedin.svg
+src/assets/images/icon-twitter.svg
+src/assets/images/image-profile-desktop.webp
+src/assets/images/image-profile-mobile.webp
+src/assets/images/image-profile-tablet.webp
+src/assets/images/pattern-circle.svg
+src/assets/images/pattern-rings.svg
+src/assets/images/thumbnail-project-1-large.webp
+src/assets/images/thumbnail-project-1-small.webp
+src/assets/images/thumbnail-project-2-large.webp
+src/assets/images/thumbnail-project-2-small.webp
+src/assets/images/thumbnail-project-3-large.webp
+src/assets/images/thumbnail-project-3-small.webp
+src/assets/images/thumbnail-project-4-large.webp
+src/assets/images/thumbnail-project-4-small.webp
+src/assets/images/thumbnail-project-5-large.webp
+src/assets/images/thumbnail-project-5-small.webp
+src/assets/images/thumbnail-project-6-large.webp
+src/assets/images/thumbnail-project-6-small.webp
+src/assets/fonts/README.txt
